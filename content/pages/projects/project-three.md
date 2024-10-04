@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Ajax-CRUD
 colors: colors-a
-date: '2022-01-01'
+date: ''
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
