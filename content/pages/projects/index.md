@@ -37,16 +37,7 @@ bottomSections:
         subtitle: The Killing House
         text: |
           Trabalho realizado em contexto de aula no replit usando python.
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /button1
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
