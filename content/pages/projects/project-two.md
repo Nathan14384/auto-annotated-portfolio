@@ -15,7 +15,7 @@ media:
   altText: Project image
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/background.avif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
