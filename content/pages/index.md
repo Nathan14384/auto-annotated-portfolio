@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: '<div style="text-align: center"># **Nathan Neto**</div>'
+    title: ''
     subtitle: eu já sei.
     styles:
       self:
