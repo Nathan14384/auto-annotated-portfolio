@@ -64,9 +64,6 @@ sections:
       - type: Label
         label: Pancakes
         url: ''
-      - type: Label
-        label: Swift
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
