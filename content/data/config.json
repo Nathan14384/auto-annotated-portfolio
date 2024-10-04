@@ -46,7 +46,7 @@
         "primaryLinks": [],
         "contacts": {
             "type": "ContactBlock",
-            "title": "",
+            "title": "Contact",
             "phoneNumber": "Tel : 968 551 715",
             "phoneAltText": "My phone number",
             "email": "Email : nathandsneto@gmail.com",
