@@ -7,7 +7,7 @@ client: ''
 description: Em contexto de trabalho de aula realizei um site de atendimento médico.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Print2.PNG
   altText: ''
 media:
   type: ImageBlock
