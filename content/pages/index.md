@@ -87,7 +87,7 @@ sections:
       - type: Button
         label: See all projects
         altText: ''
-        url: /project
+        url: /projects
         showIcon: false
         icon: arrowRight
         iconPosition: right
