@@ -50,7 +50,7 @@ sections:
     subtitle: The section subtitle
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Java
         url: ''
       - type: Label
         label: React
