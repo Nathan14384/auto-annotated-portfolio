@@ -39,7 +39,7 @@ bottomSections:
           Trabalho realizado em contexto de aula no replit usando python.
         actions:
           - type: Button
-            label: ''
+            label: Button
             altText: ''
             url: /button1
             showIcon: true
