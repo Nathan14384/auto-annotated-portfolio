@@ -67,6 +67,9 @@ sections:
       - type: Label
         label: ModeGS
         url: ''
+      - type: Label
+        label: ViewGS
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
