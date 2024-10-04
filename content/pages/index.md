@@ -114,4 +114,5 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
+    title: Projects
 ---
