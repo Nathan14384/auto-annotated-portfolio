@@ -39,7 +39,7 @@ bottomSections:
           Trabalho realizado em contexto de aula no replit usando python.
         actions:
           - type: Link
-            label: Learn more
+            label: Replit
             altText: ''
             url: '/https://replit.com/@Nathan-de-Sousa/The-killing-house?v=1'
             showIcon: false
