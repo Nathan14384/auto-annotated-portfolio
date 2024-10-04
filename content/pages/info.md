@@ -63,7 +63,7 @@ sections:
     subtitle: 'Programas que usei para trabalho linguagem de códigos :'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/pngwing.com.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
