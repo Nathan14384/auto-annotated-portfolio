@@ -14,7 +14,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: ''
-    subtitle: ''
+    subtitle: >-
+      Sou um Aluno do curso Técnico de Gestão e Programação de Sistema
+      Informático da OFICINA - Escola Profissional do INA e pretendo realizar a
+      Formação em Contexto de Trabalho na área de Programação. Algumas das
+      minhas características são : sou pontual, gosto trabalhar em equipa e
+      gosto sempre de aprender mais do que eu já sei.
     styles:
       self:
         height: auto
