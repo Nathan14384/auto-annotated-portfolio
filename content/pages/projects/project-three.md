@@ -8,7 +8,7 @@ description: Em contexto de trabalho de aula realizei um site de atendimento mé
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
-  altText: Project thumbnail image
+  altText: ''
 media:
   type: ImageBlock
   url: /images/bg3.jpg
