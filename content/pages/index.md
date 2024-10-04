@@ -64,6 +64,15 @@ sections:
       - type: Label
         label: PHP
         url: ''
+      - type: Label
+        label: ModeGS
+        url: ''
+      - type: Label
+        label: ViewGS
+        url: ''
+      - type: Label
+        label: CSS
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
