@@ -70,6 +70,9 @@ sections:
       - type: Label
         label: ViewGS
         url: ''
+      - type: Label
+        label: CSS
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
