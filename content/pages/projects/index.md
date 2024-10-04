@@ -30,7 +30,7 @@ styles:
     textAlign: left
 bottomSections:
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: 'Outros Trabalhos realizado em contexto de aula :'
     items:
       - type: FeaturedItem
         title: I'm Fast
