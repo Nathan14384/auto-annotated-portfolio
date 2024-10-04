@@ -35,10 +35,8 @@ bottomSections:
       - type: FeaturedItem
         title: Text Based Game
         subtitle: The Killing House
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          Trabalho realizado em contexto de aula.
         actions:
           - type: Button
             label: ''
