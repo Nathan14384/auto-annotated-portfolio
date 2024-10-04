@@ -4,7 +4,6 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/fundo preto.jfif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
