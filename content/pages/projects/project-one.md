@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: ''
+title: a
 colors: colors-a
 date: ''
 client: ''
