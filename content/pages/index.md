@@ -61,9 +61,6 @@ sections:
       - type: Label
         label: HTML
         url: ''
-      - type: Label
-        label: Pancakes
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
