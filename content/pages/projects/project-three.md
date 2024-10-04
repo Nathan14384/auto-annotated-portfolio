@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: AJAX-CRUD
+title: Ajax-CRUD
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
