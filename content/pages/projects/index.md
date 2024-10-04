@@ -36,6 +36,8 @@ bottomSections:
         title: Text Based Game
         subtitle: The Killing House
         text: |
+
+
           Trabalho realizado em contexto de aula no replit usando python.
         actions:
           - type: Link
