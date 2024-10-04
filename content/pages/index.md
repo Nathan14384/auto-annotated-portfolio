@@ -59,7 +59,7 @@ sections:
         label: C++
         url: ''
       - type: Label
-        label: HTML
+        label: HTML 5
         url: ''
       - type: Label
         label: PHP
