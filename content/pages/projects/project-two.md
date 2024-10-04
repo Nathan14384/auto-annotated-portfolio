@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Loja Online
 colors: colors-a
-date: ''
+date: '2021-12-04'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
