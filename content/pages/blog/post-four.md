@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 'Sharing my wisdom with the world '
+title: Sharing my wis
 colors: colors-a
 date: '2024-02-01'
 author: content/data/team/doris-soto.json
