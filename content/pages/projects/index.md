@@ -41,7 +41,7 @@ bottomSections:
           - type: Button
             label: ''
             altText: ''
-            url: /
+            url: /button1
             showIcon: true
             icon: arrowRight
             iconPosition: right
