@@ -46,7 +46,7 @@ sections:
     type: HeroSection
     actions: []
     text: |+
-      <div style="text-align: center">Nathan Neto</div>
+      <div style="text-align: center"># **Nathan Neto**</div>
 
   - colors: colors-f
     type: FeaturedProjectsSection
