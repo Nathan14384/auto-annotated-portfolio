@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Nathan Neto
+    title: ''
     subtitle: ''
     styles:
       self:
