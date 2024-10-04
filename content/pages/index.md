@@ -85,7 +85,7 @@ sections:
     elementId: ''
     actions:
       - type: Button
-        label: Learn more
+        label: See all projects
         altText: ''
         url: /project
         showIcon: false
