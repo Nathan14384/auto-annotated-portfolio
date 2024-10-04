@@ -37,7 +37,15 @@ bottomSections:
         subtitle: The Killing House
         text: |
           Trabalho realizado em contexto de aula no replit usando python.
-        actions: []
+        actions:
+          - type: Link
+            label: Learn more
+            altText: ''
+            url: '/https://replit.com/@Nathan-de-Sousa/The-killing-house?v=1'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
         elementId: ''
         styles:
           self:
