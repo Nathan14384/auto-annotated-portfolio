@@ -33,7 +33,7 @@ bottomSections:
     title: 'Outros Trabalhos realizado em contexto de aula :'
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: Text Based Game
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
