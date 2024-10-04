@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: ''
-    subtitle: eu já sei.
+    subtitle: ''
     styles:
       self:
         height: auto
