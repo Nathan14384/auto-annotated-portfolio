@@ -34,7 +34,7 @@ bottomSections:
     items:
       - type: FeaturedItem
         title: Text Based Game
-        subtitle: ''
+        subtitle: Projeto
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
