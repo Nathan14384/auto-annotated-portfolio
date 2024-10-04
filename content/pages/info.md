@@ -14,12 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      Ola eu sou o Nathan Neto e sou um Aluno do curso Técnico de Gestão e
+      # Ola eu sou o Nathan Neto e sou um Aluno do curso Técnico de Gestão e
       Programação de Sistema Informático da OFICINA - Escola Profissional do
       INA.
-
-
-
 
     media:
       type: ImageBlock
