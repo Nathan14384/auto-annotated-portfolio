@@ -59,7 +59,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'Programas que usei para trabalho linguagem de códigos :'
+    subtitle: 'Programas que usei para trabalho em linguagem de códigos :'
     images:
       - type: ImageBlock
         url: /images/pngwing.com.png
