@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Print1.PNG
-  altText: Project thumbnail image
+  altText: Loja Online
 media:
   type: ImageBlock
   url: /images/bg2.jpg
