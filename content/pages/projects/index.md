@@ -34,7 +34,7 @@ bottomSections:
     items:
       - type: FeaturedItem
         title: Text Based Game
-        subtitle: Projeto
+        subtitle: The Killing House
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
