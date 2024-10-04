@@ -13,6 +13,6 @@ featuredImage:
   altText: Loja Online
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Print1.PNG
   altText: Project image
 ---
