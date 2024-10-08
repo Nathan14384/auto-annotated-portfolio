@@ -52,7 +52,16 @@ bottomSections:
         styles:
           self:
             textAlign: left
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: '/https://replit.com/@Nathan-de-Sousa/The-killing-house?v=1#main.py'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     colors: colors-f
     columns: 1
     spacingX: 16
